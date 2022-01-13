@@ -80,6 +80,7 @@ GEM
       rspec-support (~> 3.10.0)
     rspec-support (3.10.2)
     ruby2_keywords (0.0.5)
+    rufo (0.13.0)
     sinatra (2.1.0)
       mustermann (~> 1.0)
       rack (~> 2.2)
@@ -99,6 +100,7 @@ DEPENDENCIES
   rake
   rspec
   ruby_grade_runner!
+  rufo
   web_git!
 
 RUBY VERSION
